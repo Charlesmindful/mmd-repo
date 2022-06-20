@@ -1,5 +1,5 @@
 # Demo
 
 
-    This is a first sample of mmd-Repository  
+    This is a first sample of the mmd-Repositoryyyy 
     
